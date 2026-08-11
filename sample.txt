@@ -1,0 +1,5 @@
+Python is a popular programming language.
+It is easy to learn and widely used in software development.
+Python can be used for web development, data science, machine learning, and automation.
+Learning Python helps students improve their programming and problem-solving skills.
+Small projects are a great way to practice Python concepts.
